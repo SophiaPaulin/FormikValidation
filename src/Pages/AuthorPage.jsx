@@ -1,7 +1,7 @@
 import Navigation from "../component/Navigation";
-import AuthorCard from "../Component/AuthorCard";
+import AuthorCard from "../component/AuthorCard";
 import { useState } from "react";
-import AddAuthor from "../Component/AddAuthor";
+import AddAuthor from "../component/AddAuthor";
 import { AuthorData } from "../Context/AuthorContext";
   
 const AuthorPage = () => {

@@ -1,7 +1,7 @@
-import Navigation from "../Component/Navigation"
-import BookCard from "../Component/BookCard"
+import Navigation from "../component/Navigation"
+import BookCard from "../component/BookCard"
 import { useState } from "react"
-import AddBooks from "../Component/AddBooks"
+import AddBooks from "../component/AddBooks"
 import { BookData } from "../Context/Context"
 // import AuthorCard from "../Component/AuthorCard"
   const BookPage = () => {
